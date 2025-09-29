@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Attacker App</string>
+    <string-array name="actions">
+        <item>PREPARE_ACTION</item>
+        <item>BUILD_ACTION</item>
+        <item>GET_FLAG_ACTION</item>
+        <item>INIT_ACTION</item>
+    </string-array>
+</resources>
